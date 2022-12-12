@@ -1,0 +1,24 @@
+.button {
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    color: #c59d5f;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.button:hover {
+    border-bottom: 3px solid #102a42;
+    background-color: #102a42;
+    color: #ffff;
+    transition: 0.8s;
+}
+
+
+
+.categorie-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#102a42
+}

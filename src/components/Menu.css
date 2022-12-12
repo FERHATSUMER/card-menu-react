@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f1f5f8;
+}
+
+.container {
+  display: flex;
+  width: 500px;
+  margin: 0 24px;
+}
+
+.img {
+  display: flex;
+  height: 150px;
+  border: 5px solid #c59d5f;
+  margin: 8px;
+}
+
+.title-price {
+  display: flex;
+  justify-content: space-between;
+  width: 270px;
+  margin: 8px;
+  border-bottom: 5px solid #102a42;
+  padding-bottom: 12px;
+
+}
+
+.title {
+  text-transform: capitalize;
+  color: #102a42;
+}
+
+.price {
+  color: #c59d5f;
+}
+
+.desc {
+  border: 2px solidblue;
+  color: #617d98
+}
