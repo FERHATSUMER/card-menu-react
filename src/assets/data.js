@@ -4,7 +4,7 @@ const data = [
       title: 'buttermilk pancakes',
       category: 'breakfast',
       price: 15.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://img.freepik.com/free-photo/delicious-breakfast-meal-composition_23-2148878834.jpg',
       desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
     },
     {
@@ -20,7 +20,7 @@ const data = [
       title: 'godzilla milkshake',
       category: 'shakes',
       price: 6.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://media.istockphoto.com/id/1263686908/photo/mixed-salty-snack-flat-lay-table-scene-on-a-wood-background.jpg?s=612x612&w=0&k=20&c=rCZ-gpvz--NpeNA0cYGCyJj3EK0kFUSkvdsow9u4I3o=',
       desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
     },
     {
@@ -28,7 +28,7 @@ const data = [
       title: 'country delight',
       category: 'breakfast',
       price: 20.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://media.istockphoto.com/id/533645537/photo/breakfast-with-bacon-eggs-pancakes-and-toast.jpg?s=612x612&w=0&k=20&c=TumrEwImmLi4TIVeirgynvTpHhyvt9LeiDXLci45NWg=',
       desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
     },
     {
@@ -36,7 +36,7 @@ const data = [
       title: 'egg attack',
       category: 'lunch',
       price: 22.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://static.toiimg.com/thumb/msid-66476758,width-1280,resizemode-4/66476758.jpg',
       desc: "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90/'s pop-up",
     },
     {
@@ -44,7 +44,7 @@ const data = [
       title: 'oreo dream',
       category: 'shakes',
       price: 18.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=170667a&w=0&k=20&c=iNZpvQkg4H-Xe77n8ZP782eOIgvoM71EqS7n6Ra3NyE=',
       desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
     },
     {
@@ -52,7 +52,7 @@ const data = [
       title: 'bacon overflow',
       category: 'breakfast',
       price: 8.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://images.pexels.com/photos/101533/pexels-photo-101533.jpeg?cs=srgb&dl=pexels-life-of-pix-101533.jpg&fm=jpg',
       desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
     },
     {
@@ -60,7 +60,7 @@ const data = [
       title: 'american classic',
       category: 'lunch',
       price: 12.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://simply-delicious-food.com/wp-content/uploads/2018/07/mexican-lunch-bowls-3.jpg',
       desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
     },
     {
@@ -68,7 +68,7 @@ const data = [
       title: 'quarantine buddy',
       category: 'shakes',
       price: 16.99,
-      img: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      img: 'https://www.qsrmagazine.com/sites/default/files/styles/slideshow_image/public/slideshow-images/slides/mcdonaldsglobal.jpg?itok=X8uup3iY',
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
   ];
